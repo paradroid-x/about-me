@@ -1,5 +1,5 @@
 # about-me
-👋-Hi, my nane is Riccardo Manfredi
+👋-Hi, my name is Riccardo Manfredi
 
 🇮🇹-I am a 23yo programmer based in Groppello d'Adda, near Treviglio.
 
